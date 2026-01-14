@@ -1,1 +1,4 @@
 
+#permite generar graficos sobre la variación de los contenidos de GC
+library (vegan)
+library (ggplot2)
