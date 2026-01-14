@@ -16,4 +16,8 @@ Para ejecutar los scripts, es conveniente realizar la instalación de las siguie
 -mouve 0.1.1
 -brig 1.0
 
-Se proporciona un archivo GC.yml de un ambiente conda para que lo descargue y configures el ambiente 
+Se proporciona un archivo GC.yml de un ambiente conda para que lo descargue y configures el ambiente. Paraello deberas configurar una versión compacta de miniconda, aqui se deja el enlace para la descarga y aqui vienen las instrucciones https://www.anaconda.com/docs/getting-started/miniconda/main
+Paso 1) Posteriormente de la instalación de miniconda ejecuta el siguiente comando conda create env GC
+Paso 2) Activa el ambiente de la siguiente manera conda activate GC
+Paso 3) Utiliza el archivo GC.yml para restaurar con el siguiente comando conda env export > GC.yml
+
