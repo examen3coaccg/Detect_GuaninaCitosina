@@ -1,0 +1,6 @@
+#Ambiente conda 
+
+Dtect_GC
+-blast 2.0.9 
+-mouve 0.1.1 
+-brig 1.0
